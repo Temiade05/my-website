@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+header {
+    background: #0f4c75; /* A professional "Banking Blue" */
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+}
+section {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+h1, h2 {
+    margin-top: 0;
+}
+ul {
+    list-style-type: square;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    margin-top: 20px;
+    color: #777;
+}
